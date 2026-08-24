@@ -8,7 +8,7 @@
 - 1 cut of lettue
 - 2 slices of bread
 - 10 pieces of bacon
--  available counter space and a sizeable plate
+- available counter space and a sizeable plate
 
 ## Steps
 - place one slice of bread down as a base
