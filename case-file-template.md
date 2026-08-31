@@ -28,8 +28,7 @@ Why does this feature exist? What problem does it solve for the user?
 | Finding | Evidence (exact quote) | Section |
 |---|---|---|
 | having fun with math | One thing that annoys AntiMath and makes him green with envy is people having fun with numbers and mathematics! |  A FUN-WITH-NUMBERS GAME! Number Guesser [key: NUMBER GUESSER]|
-| sharpening your skills | As you play Number Guesser with your family or friends (or just by yourself), you'll be
-sharpening your math skills. | A FUN-WITH-NUMBERS GAME! Number Guesser [key: NUMBER GUESSER] |
+| sharpening your skills | As you play Number Guesser with your family or friends (or just by yourself), you'll be sharpening your math skills. | A FUN-WITH-NUMBERS GAME! Number Guesser [key: NUMBER GUESSER] |
 
 ---
 
@@ -76,7 +75,8 @@ What information does the system return to the user?
 | Output | When it appears | Evidence (exact quote) | Section |
 |---|---|---|---|
 |  |  |  |  |
-|  |  |  |  |
+| hints after an incorrect answer | helps user get to the right answer without giving them the answer | As you enter each guess, DataMan provides a hint by displaying two numbers that the
+secret number is between  | Number Guesser [key: NUMBER GUESSER] |
 | secret number | when you turn on the number guesser key | press the [NUMBER GUESSER] key. Then, try to guess a secret number between 9 and 100 that DataMan has
 selected. As you enter each guess, DataMan provides a hint by displaying two numbers that the
 secret number is between.| Number Guesser [key: NUMBER GUESSER] |
@@ -88,8 +88,8 @@ How does the system respond to the user's actions? Feedback tells the user how t
 
 | Feedback behavior | What it tells the user | Evidence (exact quote) | Section |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
+| total number of guesses | how many guesses it took to get to the answer | DataMan rewards you with a spectacular "light show" and
+displays the total number of guesses that were taken. | Number Guesser [key: NUMBER GUESSER] |
 |light show for correct answer  | When you finally guess the secret number, I'll show you the number of tries it took, and then a
 great light show! | HOW TO PLAY |
 ---
@@ -123,14 +123,24 @@ What could not be determined from the manual? For each, state what you looked fo
 This manual documents the same feature twice. Identify **one** thing your assigned feature's two sections handle differently — something one section states and the other omits, or something the two describe in ways that do not match.
 
 **What differs:**
+--- how the rules are explained
 
 **Part I says (quote):**
 
+--- "I'll pick a secret number for you to guess. It will be somewhere between 9 and 100. You enter
+your guess. When you do, I'll flash and show you two numbers in my face mask. The secret
+number is always somewhere between the two numbers I show you."
+
 **Part II says (quote), or is silent:**
+
+--- "To select this activity, first turn DataMan on with the ON key, and then press the [NUMBER
+GUESSER] key. Then, try to guess a secret number between 9 and 100 that DataMan has
+selected. As you enter each guess, DataMan provides a hint by displaying two numbers that the
+secret number is between."
 
 **Why this matters to an analyst:**
 
----
+--- this matters because the way the rules are told to you can impact how you view the activity
 
 ## Before you submit
 
