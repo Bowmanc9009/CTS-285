@@ -1,0 +1,45 @@
+# M2 Elicitation Decision Record
+
+## Investigation Path
+1. What does “modern” need to mean from a user perspective?
+   Evidence revealed: Stakeholders say modern means the experience should work reliably in a browser, be understandable without a printed manual, and avoid making the learner navigate unnecessary screens. They do not specify a visual style or framework.
+2. What exactly do stakeholders mean by “students shouldn’t lose their work”?
+   Evidence revealed: Teachers report that students may pause practice and return later. They want a learner’s saved practice state to remain available after leaving and returning to the application.
+3. Which original DataMan behaviors are considered essential to preserve?
+   Evidence revealed: Stakeholders identify immediate answer feedback, repeated practice after an incorrect response, and a clear way for learners to see progress as central to the original experience.
+
+## Initial Position
+**Supported evidence:**
+modern means the experience should work reliably in a browser, be understandable without a printed manual, and avoid making the learner navigate unnecessary screens.
+Teachers report that students may pause practice and return later.
+Stakeholders identify immediate answer feedback, repeated practice after an incorrect response, and a clear way for learners to see progress as central to the original experience.
+
+**Remaining uncertainty:**
+what systems should be used
+
+**Likely functional requirement:**
+authentications to save sessions
+
+**Likely non-functional requirement / quality constraint:**
+needs to be operational at all times
+
+**Assumption or proposed solution I am not treating as confirmed:**
+ways to track progress of learners
+
+**Why my initial position is defensible:**
+It specifies what the stakeholders want and how the foundations of the programs should be laid out.
+
+## Complication
+Students may use DataMan on school Chromebooks, phones, tablets, and home computers. Some sessions may be interrupted before intentional sign-out.
+
+**What this affects:**
+how students interact with the program
+
+**What I revised, if anything:**
+to make sure sessions are secure
+
+**Final decision and reasoning:**
+Revise. revision on how to make dataman work on any device possible
+
+## Next Project Action
+Use this evidence to update the DataMan Requirements Register and preserve any unresolved questions as open assumptions or follow-up items.
