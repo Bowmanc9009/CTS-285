@@ -20,7 +20,7 @@ what systems should be used
 **Likely functional requirement:**
 authentications to save sessions
 
-**Likely non-functional requirement / quality constraint:**
+**Likely non-functional requirement / quality constraint:** 
 needs to be operational at all times
 
 **Assumption or proposed solution I am not treating as confirmed:**
