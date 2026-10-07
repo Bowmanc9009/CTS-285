@@ -33,16 +33,16 @@ Write at least four functional requirements. Each requirement should describe a 
 **Source/Rationale:** [Stakeholders identify immediate answer feedback]
 
 ### FR-02
-**Requirement:** The system must [capability/behavior].  
-**Source/Rationale:** [Evidence or stakeholder need that supports this requirement.]
+**Requirement:** The system must [have authentication for sessions].  
+**Source/Rationale:** [teachers want students to be able to save their work through authenticated sessions]
 
 ### FR-03
-**Requirement:** The system must [capability/behavior].  
-**Source/Rationale:** [Evidence or stakeholder need that supports this requirement.]
+**Requirement:** The system must [able to run the multiple functions of the original dataman].  
+**Source/Rationale:** [this project is a modernization of Dataman, so this program should be able to the many detailed activities the original Dataman did]
 
 ### FR-04
-**Requirement:** The system must [capability/behavior].  
-**Source/Rationale:** [Evidence or stakeholder need that supports this requirement.]
+**Requirement:** The system must [check answers for students without immediately telling them the right answer].  
+**Source/Rationale:** [activities such as number guesser and answer checker give feedback without giving them the answers. this allows the user to learn instead of using it like a cheatsheet]
 
 [Add additional functional requirements if needed.]
 
@@ -51,16 +51,16 @@ Write at least four functional requirements. Each requirement should describe a 
 Write at least three non-functional requirements. Each requirement should describe a measurable quality, constraint, or condition the system must satisfy.
 
 ### NFR-01
-**Requirement:** The system must [measurable quality/constraint/condition].  
-**Source/Rationale:** [Evidence or project constraint that supports this requirement.]
+**Requirement:** The system must [be reliable and consistant ].  
+**Source/Rationale:** [In general, users of all kinds want consistancy and reliability in the tools they use. a messy or buggy program will impede success.]
 
 ### NFR-02
-**Requirement:** The system must [measurable quality/constraint/condition].  
-**Source/Rationale:** [Evidence or project constraint that supports this requirement.]
+**Requirement:** The system must [have easily accessible feedback].  
+**Source/Rationale:** [dataman is supposed ot help you practice math so you need the feedback given should be easily decipherable and accessible]
 
 ### NFR-03
-**Requirement:** The system must [measurable quality/constraint/condition].  
-**Source/Rationale:** [Evidence or project constraint that supports this requirement.]
+**Requirement:** The system must [have each dataman minigame be separately accessible].  
+**Source/Rationale:** [users would want to have each game they want to play be readily available and accessible]
 
 [Add additional non-functional requirements if needed.]
 
@@ -68,8 +68,8 @@ Write at least three non-functional requirements. Each requirement should descri
 
 Do not turn an unsupported idea into a confirmed requirement. Record unresolved items here until evidence supports a decision.
 
-- **Q-01:** [What still needs to be clarified or confirmed?]
-- **Q-02:** [What still needs to be clarified or confirmed?]
+- **Q-01:** [What systems need to be used]
+- **Q-02:** [what a readible system for parents and teachers looks like]
 
 [Add or remove items as appropriate.]
 
